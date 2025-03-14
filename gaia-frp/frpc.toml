@@ -1,0 +1,10 @@
+serverAddr = "gaia.domains"
+serverPort = 7000
+metadatas.deviceId = "device-3f45d391cdb7866210cc811c"
+
+[[proxies]]
+name = "0x284a2ca382edbdb30d282f479545d68184caa65b.gaia.domains"
+type = "http"
+localPort = 8100
+#remotePort = 80
+subdomain = "0x284a2ca382edbdb30d282f479545d68184caa65b"
